@@ -195,6 +195,7 @@ venv.bak/
 pyvenv.cfg
 pip-selfcheck.json
 
-
+#Vscode IDE
+.vscode/settings.json
 # End of https://www.gitignore.io/api/linux,python,pycharm,virtualenv
 
